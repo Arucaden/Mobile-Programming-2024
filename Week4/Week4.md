@@ -298,8 +298,7 @@ Perbaikan :
 ```
 ![alt text](image-16.png)
 
-## Tugas
-## TUGAS PRAKTIKUM
+## Tugas Praktikum
 2. Jelaskan yang dimaksud Functions dalam bahasa Dart! <br/>
 **Jawab**
     > Function adalah sebuah blok kode yang dapat dipanggil dan dieksekusi ketika dipanggil
